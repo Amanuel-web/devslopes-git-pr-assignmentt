@@ -1,0 +1,5 @@
+#all the text file
+.txt*
+
+#all the sensitive data
+.env*
